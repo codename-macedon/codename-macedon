@@ -1,43 +1,31 @@
-## Hi there 👋
-
 <!--
-**codename-macedon/codename-macedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**codename-macedon/codename-macedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Project for a skeleton profile README.md -->
 
-# Project Title
+# Project whoami
 
-## Overview
-To be brief, this is a skeleton template for a standard starting point for anyone to use.
+##  👋 Hello World! 🌐 My name is Javier. 🚀
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Introduction
+Welcome to **"Project whoami"**. With this project I intend to introduce myself and share some interests and ideas. 🧠
 
-## Installation
-Step-by-step instructions on how to install and set up the project.
+I have succesfully been teaching myself Computer Science trying to develop skills for the future.
 
-## Usage
-Examples on how to use the project.
+## Interests
+- Computer System Engineering
+- Network Security Orchestration
+- System Optimization
+
+## Programming languages
+HMTL, CSS, and JavaScript
+Bash
 
 ## Contributing
-Guidelines for contributing to the project.
+Guidelines for contributing to the project. I created a generic template of a README file as a starting point for new users. Commit #37a0996.
 
-## License
-Information about the project's license.
+If someone sees anything wrong here please raise an issue and if able provide assistance or guidance in resolving said issue.
 
 ## Contact
 How to reach you for questions or feedback.
+email: javier.burgos96@live.com
