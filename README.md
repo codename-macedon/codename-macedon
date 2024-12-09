@@ -5,12 +5,14 @@
 
 # Project whoami
 
-##  👋 Hello World! 🌐 My name is Javier. 🚀
+##  👋 Hello World! 🌐 My name is Francis J. 🚀
 
 ## Introduction
 Welcome to **"Project whoami"**. With this project I intend to introduce myself and share some interests and ideas. 🧠
 
 I have succesfully been teaching myself Computer Science trying to develop skills for the future.
+
+My core interest is between network security and system configuration. I plan on mastering the basics and hone my skills in order to be able to contribute to videogame design and development. ♊
 
 ## Interests
 - Computer System Engineering
